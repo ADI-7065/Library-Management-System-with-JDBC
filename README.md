@@ -31,7 +31,6 @@ It demonstrates how to perform CRUD operations (Create, Read, Update, Delete) in
 ---
 🎯 Learning Objectives
 
-- By using this project, you will:
 - Learn how to connect Java applications to MySQL using JDBC
 - Perform CRUD operations with SQL queries inside Java
 - Understand exception handling in database-driven applications
