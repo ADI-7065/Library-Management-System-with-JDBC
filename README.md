@@ -1,4 +1,4 @@
-📚 Library Management System with JDBC
+> # 📚 Library Management System with JDBC
 
 This project is a Java-based Library Management System built with JDBC (Java Database Connectivity) to interact with a MySQL database.
 It demonstrates how to perform CRUD operations (Create, Read, Update, Delete) in Java using JDBC, while managing books in a library.
